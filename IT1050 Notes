@@ -1,0 +1,41 @@
+Enter file contents here
+// Use method to shorten code
+//public void new Spouse
+//
+
+
+public string FirstName;
+public string LastName;
+public int age;
+public person Spouse;
+
+public static double AverageAge;
+
+public string GetFullName()
+
+{return this.FirstName + " " + this.LastName;
+}
+
+public void PrintNameAndAge()
+
+{
+}
+
+public void AskUserForNameAndAge()
+{
+system.Console.WriteLine("First name: ");
+this.FirstName = System.Console.ReadLine();
+
+system.Console.WriteLine("Last name: ");
+this.LastName = System.Console.ReadLine();
+
+System.Console.WriteLine("Age: ");
+this.Age = System.Console.ReadLine();
+}
+
+
+
+public static double AverageAge();
+{ return sumofages / count
+
+}
