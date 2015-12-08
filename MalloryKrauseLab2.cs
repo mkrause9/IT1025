@@ -16,7 +16,7 @@ namespace MalloryKrauseLab2
 
             //After you have collected this information, compute and print all values:
             //Full name and age of every person, including spouses.
-            //Average age of all people.
+            //Average age of all people. 
 
             Person.AverageAge = 0;
             Person.SumOfAges = 0;
